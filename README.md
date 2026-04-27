@@ -6,7 +6,7 @@ This repository contains OIC integration that is used to  extract BIP report dat
 
 <img width="1880" height="434" alt="image" src="https://github.com/user-attachments/assets/9d705561-fc72-4e13-acdb-4cc8a60fae0e" />
 
- <img width="969" height="462" alt="image" src="https://github.com/user-attachments/assets/83ba500d-d798-4522-9431-646ed33119eb" />
+<img width="969" height="462" alt="image" src="https://github.com/user-attachments/assets/83ba500d-d798-4522-9431-646ed33119eb"  />
  
 <img width="1026" height="329" alt="image" src="https://github.com/user-attachments/assets/ec077998-ba61-4d6a-a686-6e0c063bc62a" />
 
