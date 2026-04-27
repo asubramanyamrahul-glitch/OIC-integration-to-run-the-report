@@ -146,15 +146,14 @@ The trigger initializes the integration and starts the report execution process.
 
 ***
 
+<img width="1901" height="875" alt="image" src="https://github.com/user-attachments/assets/5ceaceaf-f76c-4dd4-98f9-4b8c2d915f5a" />
+<img width="1437" height="522" alt="image" src="https://github.com/user-attachments/assets/09ccbef3-1589-4021-a991-56ed6a2d1dc9" />
+<img width="1896" height="876" alt="image" src="https://github.com/user-attachments/assets/3ae22b4d-863c-4844-8bd4-7d1c581d86a2" />
+<img width="1905" height="870" alt="image" src="https://github.com/user-attachments/assets/8a6f9522-8301-49b2-af05-0644c7a0bd73" />
 
 
-<img width="1905" height="882" alt="image" src="https://github.com/user-attachments/assets/f8557105-fe04-4c72-a7eb-2841cd1a0cab" />
 
-<img width="1910" height="914" alt="image" src="https://github.com/user-attachments/assets/fa51b66a-0cb1-49de-ab19-51014edfa9c2" />
 
-<img width="969" height="462" alt="image" src="https://github.com/user-attachments/assets/83ba500d-d798-4522-9431-646ed33119eb"  />
- 
-<img width="1026" height="329" alt="image" src="https://github.com/user-attachments/assets/ec077998-ba61-4d6a-a686-6e0c063bc62a" />
 
 ***
 <img width="1880" height="434" alt="image" src="https://github.com/user-attachments/assets/9d705561-fc72-4e13-acdb-4cc8a60fae0e" />
